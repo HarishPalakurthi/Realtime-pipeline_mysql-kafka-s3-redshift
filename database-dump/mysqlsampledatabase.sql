@@ -11,6 +11,8 @@ Version 3.0
 Version 2.0
 + changed table type from MyISAM to InnoDB
 + added foreign keys for all tables 
+
+In Docker compose use My.SQL8.0.39 version 
 *********************************************************************
 */
 
