@@ -1,4 +1,6 @@
-To set:
+Open a terminal and enter the following
+
+To set: 
 
 $env:AWS_SECRET_ACCESS_KEY = ""
 $env:AWS_ACCESS_KEY_ID = ""
